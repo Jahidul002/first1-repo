@@ -1,0 +1,34 @@
+.color{
+    color: darkolivegreen;
+    font-size:30px;
+}
+.cntc{
+    font-size: 28px;
+    text-align:center;
+  }
+.kallo{
+    font-size:20px;
+}
+.brdr{
+    background-color: rgb(236, 150, 118);
+    border: 10px solid rgb(184, 136, 33);
+    border-radius: 20px;
+    margin: 5%;
+    padding:5px;
+    text-align: justify;
+}
+.slct{
+    background-color: rgb(247, 195, 119);
+
+}
+.bdr{
+    background-color: rgb(138, 236, 118);
+    border: 10px solid rgb(33, 98, 184);
+    border-radius: 20px;
+    margin: 5%;
+    padding: 10px;
+    text-align: ;
+}
+div{
+    display:block
+}
